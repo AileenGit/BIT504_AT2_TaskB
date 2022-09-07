@@ -1,5 +1,7 @@
 import javax.swing.JFrame;
 
+// Added changes for experiment_1
+
 public class PongV2 extends JFrame {
 	static final int WINDOW_WIDTH = 800;
 	static final int WINDOW_HEIGHT = 600;
